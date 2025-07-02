@@ -9,5 +9,5 @@ This project involves a real-time speech detection system that detects the hate 
 
 
 
-Ask ChatGPT
+
 
